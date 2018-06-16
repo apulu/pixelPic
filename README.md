@@ -5,3 +5,6 @@ iOS程式設計作業
 Doge
 
 ![image](https://github.com/apulu/pixelPic/blob/master/icon.png)
+
+
+![image](https://github.com/apulu/pixelPic/blob/master/DogeScreenRecord.gif)
